@@ -15,17 +15,21 @@
     font-size: 30px;
 }
 .offer{
-    background-color: rgb(251, 129, 190);
-    display: block;
+    display: flex;
     justify-content: space-around;
-    padding:10px;
-    color:rgb(65, 13, 13);
-    width: 400px;
-    border:1px solid palevioletred;
-    border-radius: 5px;
+
+   
 }
 .off{
+    background-color: rgb(251, 129, 190); margin: 0 30%;
+    border:1px solid palevioletred;
+    border-radius: 5px;
+    display: block;
+    justify-content: space-around;
+    padding:10px 20px;
+    color:rgb(65, 13, 13);
 
+   
 }
 .first{
     background-color: rgb(223, 168, 255);
