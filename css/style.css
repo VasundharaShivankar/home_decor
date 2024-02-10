@@ -14,6 +14,8 @@
 }
 .offer{
     background-color: rgb(251, 129, 190);
+    display: block;
+    justify-content: space-around;
     padding:10px;
     color:rgb(65, 13, 13);
     width: 400px;
